@@ -1,0 +1,21 @@
+{
+  "name": "Asa Admin",
+  "short_name": "Asa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "description": "Private admin-only campaign management system",
+  "icons": [
+    {
+      "src": "/asa-icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/asa-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
